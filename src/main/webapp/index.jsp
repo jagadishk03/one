@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="utf-8" />
@@ -24,6 +24,7 @@
         }
 
         * {
+            box-sizing: border-box
             box-sizing: border-box
         }
 
